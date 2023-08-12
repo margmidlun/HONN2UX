@@ -17,9 +17,9 @@ Forritin sem notuð eru í áfanganum eru öll hluti af _Adobe Creative_ pakkanu
 
 | Vika | Verkefni | Nr. | Tímar | Vægi % |
 |---|---|---|---|---|
-| 34 | AE viðmót - skipulag (_interface_). Tímalínan og lykilrammar (_keyframes_) | 1 | 8  | 12 |
+| 34 | After Effects (AE) viðmót - skipulag (_interface_). Tímalínan og lykilrammar (_keyframes_) | 1 | 8  | 12 |
 | 35 | AE, lög og maskar (_shape layers & masks_) | 2  | 8  | 12  |
-| 36 | AE texti og áhrif (_effects_) | 3  | 8  | 12  |
+| 36 | AE texti og áhrif (_effects_) og myndblöndun () | 3  | 8  | 12  |
 | 37 | AE, þrívíddarsköpun | 4  | 8* | 12 |
 | 38 | Audition, hljóðvinnsla  | 5  | 8* | 12  |
 | 39 | Handrit, sögusvið (_storyboard_) og kviksaga (_animatic_) | 6  | 8 | 15  |
