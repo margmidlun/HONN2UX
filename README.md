@@ -46,6 +46,6 @@ Forritin sem notuð eru í áfanganum eru öll hluti af _Adobe Creative_ pakkanu
 
 #### 👩‍💻 Verkefni og námsefni er í Innu
 
-#### 🌈 [Vefsíða með verkefnadæmum haustið 2022](https://margmidlun.github.io/verkefni/index.html)
+#### 🌈 [Vefsíða með verkefnadæmum](https://margmidlun.github.io/verkefni/index.html)
 
 ####  _Gangi ykkur vel_ 
