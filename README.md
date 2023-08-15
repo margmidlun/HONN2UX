@@ -35,7 +35,7 @@ Forritin sem notuð eru í áfanganum eru öll hluti af _Adobe Creative_ pakkanu
 |---|------|------|------|------|
 | 34 | Viðmót - skipulag | Tímalínan - (_keyframes_) | Hröðun (_ease in out_)  | verkefnavinna |
 | 35 | Shape layer  | Layer mask  | Track Matte | verkefnavinna |
-| 36 | Roto Brush | Moccha  | Puppet tool  | verkefnavinna |
+| 36 | Roto Brush | verkefnavinna  | Moccha  | verkefnavinna |
 | 37 | Þrívídd lagskipting  | Myndavél og ljós  | Tracking | Cinema 4D |
 | 38 | Audition, hljóðsetning  | Recording  | Editing  | Export formats |
 | 39 | Handrit | Sögusvið | Premiere kviksaga | Photoshop kviksaga |
