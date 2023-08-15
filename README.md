@@ -25,7 +25,7 @@ Forritin sem notuð eru í áfanganum eru öll hluti af _Adobe Creative_ pakkanu
 | 39 | Handrit, sögusvið (_storyboard_) og kviksaga (_animatic_) | 6  | 8 | 15  |
 | 40 | Lokaverkefni. _Lykilmatsþáttur_ | 7  | 8 |   |
 | 41 | Lokaverkefni. Kvikmynd með grafískum upplýsingum og stafrænum áhrifum | 8 | 8 | 25  |
-|    | *<sub>Miðspannarmat, 15/09 og Tækniskóladagurinn 20/09. **Skil á lokaverkefni er 13.október**. </sub> |  |  | 100%  |
+|    | *<sub>Tækniskóladagurinn 20/09. **Skil á lokaverkefni er 13.október**. </sub> |  |  | 100%  |
 
 ## Stundatafla
 
