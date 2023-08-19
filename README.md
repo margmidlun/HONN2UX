@@ -20,7 +20,7 @@ Forritin sem notuð eru í áfanganum eru öll hluti af _Adobe Creative_ pakkanu
 | 34 | After Effects (AE) viðmót - skipulag (_interface_). Tímalínan og lykilrammar (_keyframes_) | 1 | 8  | 12 |
 | 35 | AE, lög og maskar (_shape layers & masks_) | 2  | 8  | 12  |
 | 36 | AE texti og áhrif (_effects_) og myndbmöskun (_RotoBrush_ ofl) | 3  | 8  | 12  |
-| 37 | AE, þrívíddarsköpun (Cinema 4D) | 4  | 8 | 12 |
+| 37 | AE, þrívíddarsköpun (_Cinema 4D_) | 4  | 8 | 12 |
 | 38 | Handrit, sögusvið (_storyboard_)  | 5  | 8 | 12  |
 | 39 | Audition, hljóðvinnsla. AE, kviksaga (_animatic_)  | 5  | 6* | 15  |
 | 40 | Lokaverkefni. _Lykilmatsþáttur_ | 7  | 8 |   |
