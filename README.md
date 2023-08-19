@@ -21,8 +21,8 @@ Forritin sem notuð eru í áfanganum eru öll hluti af _Adobe Creative_ pakkanu
 | 35 | AE, lög og maskar (_shape layers & masks_) | 2  | 8  | 12  |
 | 36 | AE texti og áhrif (_effects_) og myndbmöskun (_RotoBrush_ ofl) | 3  | 8  | 12  |
 | 37 | AE, þrívíddarsköpun (Cinema 4D) | 4  | 8 | 12 |
-| 38 | Handrit, sögusvið (_storyboard_)  | 5  | 8 | 15  |
-| 39 | Audition, hljóðvinnsla. AE, kviksaga (_animatic_)  | 5  | 6* | 12  |
+| 38 | Handrit, sögusvið (_storyboard_)  | 5  | 8 | 12  |
+| 39 | Audition, hljóðvinnsla. AE, kviksaga (_animatic_)  | 5  | 6* | 15  |
 | 40 | Lokaverkefni. _Lykilmatsþáttur_ | 7  | 8 |   |
 | 41 | Lokaverkefni. Kvikmynd með grafískum upplýsingum og stafrænum áhrifum | 8 | 8 | 25  |
 |    | *<sub>Tækniskóladagurinn 20/09. **Síðasti kennsludagur er 13.október**. </sub> |  |  | 100%  |
@@ -39,7 +39,6 @@ Forritin sem notuð eru í áfanganum eru öll hluti af _Adobe Creative_ pakkanu
 | 37 | Þrívídd Classic 3D  | Myndavél og ljós  | Cinema 4D  | verkefnavinna |
 | 38 | inDesgn, handrit | Sögusvið | verkefnavinna | verkefnavinna |
 | 39 | Audition, hljóðupptaka  | Editing  | Kviksaga  | verkefnavinna |
-
 | 40 | Lokaverkefni | Framleiðsla  | Framleiðsla | Framleiðsla |
 | 41 | Kvikmynd  | með grafískum | og stafrænum áhrifum | Skil |
 
