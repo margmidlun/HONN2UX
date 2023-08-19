@@ -37,8 +37,9 @@ Forritin sem notuð eru í áfanganum eru öll hluti af _Adobe Creative_ pakkanu
 | 35 | Shape layer  | Layer mask  | Track Matte | verkefnavinna |
 | 36 | Roto Brush | verkefnavinna  | Moccha  | verkefnavinna |
 | 37 | Þrívídd Classic 3D  | Myndavél og ljós  | Cinema 4D  | verkefnavinna |
-| 38 | Audition, hljóðupptaka  | Editing  | Export formats  | verkefnavinna |
-| 39 | Handrit | Sögusvið | Kviksaga | verkefnavinna |
+| 38 | inDesgn, handrit | Sögusvið | verkefnavinna | verkefnavinna |
+| 39 | Audition, hljóðupptaka  | Editing  | Kviksaga  | verkefnavinna |
+
 | 40 | Lokaverkefni | Framleiðsla  | Framleiðsla | Framleiðsla |
 | 41 | Kvikmynd  | með grafískum | og stafrænum áhrifum | Skil |
 
